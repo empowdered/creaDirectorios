@@ -1,0 +1,5 @@
+directorioA
+directorioA/subdirectorioA
+directorioB
+directorioB/subdirectorioB
+directorioB/subdirectorioB/subdirectorioBA
