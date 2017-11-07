@@ -1,8 +1,9 @@
 <?php
 /**
- * creado por: juan pablo muñoz leiva
+ * creado por: juan pablo muÃ±oz leiva
  * fecha creacion: 31-10-2017
- * funcionalidad: archivo php, que puede ser invocado como un script con la opción
+ * funcionalidad: archivo php, que puede ser invocado como un script 
+ con la opciÃ³n => php.exe -q "ruta del archivo.php", para windows
  */
 define('RUTA_SCRIPT',$_SERVER['DOCUMENT_ROOT']);
 $nombreArchivo ="listado.txt";
