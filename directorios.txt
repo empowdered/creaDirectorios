@@ -1,0 +1,4 @@
+directorioA
+directorioC
+directorioA/directorioAA
+directorioC/directorioCA
